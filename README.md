@@ -1,2 +1,3 @@
 this is a simple news app using recycle view it is made up using of volley and glide library.
 i used news api.org.
+![Annotation 2020-10-21 212600](https://user-images.githubusercontent.com/68162762/96745963-4f5e8d80-13e4-11eb-8eeb-e2e7a6cc8d9a.jpg)![Annotation 2020-10-21 212500](https://user-images.githubusercontent.com/68162762/96745986-55ed0500-13e4-11eb-903d-253affc3b89b.jpg)![Annotation 2020-10-21 212428](https://user-images.githubusercontent.com/68162762/96746024-656c4e00-13e4-11eb-96a5-5705bb6396b0.jpg)![Annotation 2020-10-21 212332](https://user-images.githubusercontent.com/68162762/96746041-68673e80-13e4-11eb-9dfa-8ed3a1703989.jpg)
